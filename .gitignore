@@ -1,0 +1,11 @@
+# 시스템 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude Code
+.claude/
+
+# 임시 파일
+*.tmp
+*.bak
